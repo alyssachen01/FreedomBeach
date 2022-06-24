@@ -1,0 +1,48 @@
+﻿  main7.cpp
+E:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\Libraries\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\texture.h(279,33): warning C4305: “初始化”: 从“double”到“float”截断
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\texture.h(320,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\texture.h(344,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\texture.h(346,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\texture.h(348,51): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\file\Ocean.h(112,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(101,124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(167,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(168,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(172,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(173,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(175,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(176,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(185,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(192,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(423,19): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(427,76): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(428,24): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(429,28): warning C4305: “=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(432,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(464,13): warning C4305: “+=”: 从“double”到“float”截断
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(466,12): warning C4305: “+=”: 从“double”到“float”截断
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(513,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(523,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(571,90): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(571,70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(571,50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(603,86): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(603,67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(603,48): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(613,50): warning C4305: “参数”: 从“double”到“float”截断
+D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\main7.cpp(443,9): warning C4101: “pattern”: 未引用的局部变量
+  Project1.vcxproj -> D:\JuniorA\ComputerGraphics\ClassDesign\FreedomBeach-清屎完毕\Debug\Project1.exe
